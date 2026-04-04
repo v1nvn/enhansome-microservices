@@ -1,4 +1,4 @@
-# Awesome Microservices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 451,320 | 🐛 59 | 📅 2026-04-02 with stars
+# Awesome Microservices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 451,627 | 🐛 59 | 📅 2026-04-02 with stars
 
 A curated list of Microservice Architecture related principles and technologies.
 
@@ -67,21 +67,21 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Platforms
 
-* [OpenWhisk](https://github.com/apache/openwhisk) ⭐ 6,765 | 🐛 434 | 🌐 Scala | 📅 2026-03-24 - Serverless, open source cloud platform that executes functions in response to events at any scale.
-* [1Backend](https://github.com/1backend/1backend) ⭐ 2,329 | 🐛 11 | 🌐 Go | 📅 2026-04-02 - AI-native microservices platform.
+* [OpenWhisk](https://github.com/apache/openwhisk) ⭐ 6,764 | 🐛 434 | 🌐 Scala | 📅 2026-03-24 - Serverless, open source cloud platform that executes functions in response to events at any scale.
+* [1Backend](https://github.com/1backend/1backend) ⭐ 2,328 | 🐛 11 | 🌐 Go | 📅 2026-04-03 - AI-native microservices platform.
 * [Triton](https://github.com/joyent/triton) ⭐ 1,368 | 🐛 42 | 🌐 Shell | 📅 2025-06-18 - Open-source cloud management platform that delivers next generation, container-based, service-oriented infrastructure across one or more data centers.
 * [Jolie](https://jolie-lang.org) - Open source microservice-oriented programming language.
 * [Pulumi](https://pulumi.io/) - SDK for cloud native infrastructure as code. Use your favorite language to preview and manage updates to your apps and infrastructure, and continuously deploy to any cloud (no YAML required).
 
 ## Frameworks / Runtimes
 
-* [Erlang/OTP](https://github.com/erlang/otp) ⭐ 12,088 | 🐛 532 | 🌐 Erlang | 📅 2026-04-03 - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
-* [Spin](https://github.com/fermyon/spin) ⭐ 6,355 | 🐛 282 | 🌐 Rust | 📅 2026-04-02 - An open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
+* [Erlang/OTP](https://github.com/erlang/otp) ⭐ 12,088 | 🐛 530 | 🌐 Erlang | 📅 2026-04-04 - Programming language used to build massively scalable soft real-time systems with requirements on high availability.
+* [Spin](https://github.com/fermyon/spin) ⭐ 6,354 | 🐛 283 | 🌐 Rust | 📅 2026-04-02 - An open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly.
 * [Light-4j](https://github.com/networknt/light-4j) ⭐ 3,676 | 🐛 14 | 🌐 Java | 📅 2026-04-03 - A high throughput, low latency, small memory footprint and more productive microservices platform.
-* [Wangle](https://github.com/facebook/wangle) ⭐ 3,093 | 🐛 47 | 🌐 C++ | 📅 2026-04-02 - A framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
-* [Ice](https://github.com/zeroc-ice/ice) ⭐ 2,176 | 🐛 69 | 🌐 C++ | 📅 2026-04-02 - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
+* [Wangle](https://github.com/facebook/wangle) ⭐ 3,094 | 🐛 47 | 🌐 C++ | 📅 2026-04-04 - A framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
+* [Ice](https://github.com/zeroc-ice/ice) ⭐ 2,176 | 🐛 68 | 🌐 C++ | 📅 2026-04-03 - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
 * [ScaleCube](https://github.com/scalecube/scalecube) ⭐ 637 | 🐛 18 | 🌐 Java | 📅 2026-03-26 - Toolkit for building reactive microservices for the JVM: low-latency, high-throughput, scalable and resilient.
-* [Pears](https://github.com/holepunchto/pear) ⭐ 230 | 🐛 51 | 🌐 JavaScript | 📅 2026-04-02 - Peer-to-peer runtime, development and deployment.
+* [Pears](https://github.com/holepunchto/pear) ⭐ 231 | 🐛 51 | 🌐 JavaScript | 📅 2026-04-03 - Peer-to-peer runtime, development and deployment.
 * [Vert.X Toolbox](https://github.com/vert-x3/vertx-microservices-toolbox) ⭐ 119 | 🐛 13 | 🌐 Java | 📅 2026-03-26 - A set of Vert.x components to build reactive microservice applications.
 * [Akka](http://akka.io/) - Toolkit and runtime for building highly concurrent, distributed, and resilient message-driven applications on the JVM.
 * [Axon (c)](https://axoniq.io/) - An end-to-end development and infrastructure platform for easy development and running of any DDD, CQRS and Event Sourcing applications on JVM.
@@ -115,7 +115,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 <!-- #c-1 anchor -->
 
-* [uWebSockets](https://github.com/uNetworking/uWebSockets) ⭐ 18,772 | 🐛 54 | 🌐 C++ | 📅 2026-03-21 - Simple, secure & standards compliant web server for the most demanding of applications.
+* [uWebSockets](https://github.com/uNetworking/uWebSockets) ⭐ 18,774 | 🐛 54 | 🌐 C++ | 📅 2026-04-04 - Simple, secure & standards compliant web server for the most demanding of applications.
 * [Sogou Workflow](https://github.com/sogou/workflow) ⭐ 14,321 | 🐛 26 | 🌐 C++ | 📅 2026-04-02 - Enterprise-grade programming engine aimed to satisfy most of the backend development requirements.
 * [Pistache](https://github.com/oktal/pistache) ⭐ 3,465 | 🐛 222 | 🌐 C++ | 📅 2026-04-03 - A high-performance REST toolkit written in C++.
 * [C++ Micro Services](https://github.com/CppMicroServices/CppMicroServices) ⭐ 865 | 🐛 70 | 🌐 C++ | 📅 2026-04-01 - An OSGi-like C++ dynamic module system and service registry.
@@ -145,15 +145,15 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Go
 
-* [Gin](https://github.com/gin-gonic/gin) ⭐ 88,317 | 🐛 664 | 🌐 Go | 📅 2026-03-31 - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance, up to 40 times faster.
-* [Fiber](https://github.com/gofiber/fiber) ⭐ 39,506 | 🐛 42 | 🌐 Go | 📅 2026-04-01 - Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
-* [Go-zero](https://github.com/tal-tech/go-zero) ⭐ 32,870 | 🐛 311 | 🌐 Go | 📅 2026-04-03 - A web and rpc distributed system development framework.
-* [Iris](https://github.com/kataras/iris) ⭐ 25,604 | 🐛 145 | 🌐 Go | 📅 2026-01-15 - Fast, simple and efficient micro web framework for Go.
-* [Go-micro](https://github.com/micro/go-micro) ⭐ 22,726 | 🐛 3 | 🌐 Go | 📅 2026-03-26 - A distributed systems development framework.
-* [Chi](https://github.com/go-chi/chi) ⭐ 21,891 | 🐛 104 | 🌐 Go | 📅 2026-02-19 - Lightweight, idiomatic and composable router for building Go HTTP services.
-* [GoFr](https://github.com/gofr-dev/gofr) ⭐ 21,523 | 🐛 95 | 🌐 Go | 📅 2026-04-03 - An opinionated microservice development framework emphasizing scalability and robustness. Designed to simplify the development of microservices.
-* [RPCX](https://github.com/smallnest/rpcx) ⭐ 8,276 | 🐛 4 | 🌐 Go | 📅 2026-04-01 - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
-* [Lura](https://github.com/luraproject/lura) ⭐ 6,755 | 🐛 9 | 🌐 Go | 📅 2026-03-16 - Framework to build ultra performance API Gateways with middlewares.
+* [Gin](https://github.com/gin-gonic/gin) ⭐ 88,320 | 🐛 664 | 🌐 Go | 📅 2026-03-31 - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance, up to 40 times faster.
+* [Fiber](https://github.com/gofiber/fiber) ⭐ 39,513 | 🐛 45 | 🌐 Go | 📅 2026-04-04 - Express inspired web framework built on top of Fasthttp, the fastest HTTP engine for Go. Designed to ease things up for fast development with zero memory allocation and performance in mind.
+* [Go-zero](https://github.com/tal-tech/go-zero) ⭐ 32,871 | 🐛 314 | 🌐 Go | 📅 2026-04-03 - A web and rpc distributed system development framework.
+* [Iris](https://github.com/kataras/iris) ⭐ 25,604 | 🐛 144 | 🌐 Go | 📅 2026-01-15 - Fast, simple and efficient micro web framework for Go.
+* [Go-micro](https://github.com/micro/go-micro) ⭐ 22,728 | 🐛 3 | 🌐 Go | 📅 2026-03-26 - A distributed systems development framework.
+* [Chi](https://github.com/go-chi/chi) ⭐ 21,899 | 🐛 104 | 🌐 Go | 📅 2026-02-19 - Lightweight, idiomatic and composable router for building Go HTTP services.
+* [GoFr](https://github.com/gofr-dev/gofr) ⭐ 21,520 | 🐛 93 | 🌐 Go | 📅 2026-04-03 - An opinionated microservice development framework emphasizing scalability and robustness. Designed to simplify the development of microservices.
+* [RPCX](https://github.com/smallnest/rpcx) ⭐ 8,277 | 🐛 4 | 🌐 Go | 📅 2026-04-01 - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
+* [Lura](https://github.com/luraproject/lura) ⭐ 6,755 | 🐛 10 | 🌐 Go | 📅 2026-03-16 - Framework to build ultra performance API Gateways with middlewares.
 * [Goa](https://github.com/goadesign/goa) ⭐ 6,070 | 🐛 37 | 🌐 Go | 📅 2026-03-23 - Design-based HTTP microservices in Go.
 * [Go Chassis](https://github.com/go-chassis/go-chassis) ⭐ 2,731 | 🐛 44 | 🌐 Go | 📅 2025-12-31 - A framework for rapid development of microservices in Go that is easy to integrate with some cloud ecosystems.
 * [Echo](https://echo.labstack.com/) - Fast and unfancy HTTP server framework for Go. Up to 10x faster than the rest.
@@ -177,12 +177,12 @@ A curated list of Microservice Architecture related principles and technologies.
 #### Java
 
 * [Dubbo](https://github.com/apache/dubbo) ⭐ 41,686 | 🐛 953 | 🌐 Java | 📅 2026-04-01 - A high-performance, java based RPC framework open-sourced by Alibaba.
-* [Disruptor](https://github.com/LMAX-Exchange/disruptor) ⭐ 18,276 | 🐛 15 | 🌐 Java | 📅 2025-04-02 - High-performance inter-thread messaging library.
-* [Dropwizard](https://github.com/dropwizard/dropwizard) ⭐ 8,599 | 🐛 44 | 🌐 Java | 📅 2026-04-02 - Java framework for developing ops-friendly, high-performance, RESTful web services.
-* [ActiveJ](https://github.com/activej/activej) ⭐ 985 | 🐛 48 | 🌐 Java | 📅 2026-01-09 - Lightweight and fast library for complex high-load distributed applications and Memcached-like solutions.
+* [Disruptor](https://github.com/LMAX-Exchange/disruptor) ⭐ 18,281 | 🐛 15 | 🌐 Java | 📅 2025-04-02 - High-performance inter-thread messaging library.
+* [Dropwizard](https://github.com/dropwizard/dropwizard) ⭐ 8,598 | 🐛 44 | 🌐 Java | 📅 2026-04-02 - Java framework for developing ops-friendly, high-performance, RESTful web services.
+* [ActiveJ](https://github.com/activej/activej) ⭐ 984 | 🐛 48 | 🌐 Java | 📅 2026-01-09 - Lightweight and fast library for complex high-load distributed applications and Memcached-like solutions.
 * [Jersey](https://github.com/eclipse-ee4j/jersey) ⭐ 726 | 🐛 823 | 🌐 Java | 📅 2026-04-01 - RESTful services in Java. JAX-RS reference implementation.
-* [Airlift](https://github.com/airlift/airlift) ⭐ 629 | 🐛 116 | 🌐 Java | 📅 2026-04-02 - Framework for building REST services in Java.
-* [Conjure](https://github.com/palantir/conjure-java-runtime) ⭐ 89 | 🐛 45 | 🌐 Java | 📅 2026-04-02 - Opinionated set of libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
+* [Airlift](https://github.com/airlift/airlift) ⭐ 629 | 🐛 116 | 🌐 Java | 📅 2026-04-03 - Framework for building REST services in Java.
+* [Conjure](https://github.com/palantir/conjure-java-runtime) ⭐ 89 | 🐛 45 | 🌐 Java | 📅 2026-04-04 - Opinionated set of libraries for defining and creating RESTish/RPC servers and clients based on Feign or Retrofit as a client and Dropwizard/Jersey with JAX-RS service definitions as a server.
 * [Armeria](https://line.github.io/armeria/) - Open-source asynchronous HTTP/2 RPC/REST client/server library built on top of Java 8, Netty, Thrift and gRPC.
 * [Quarkus](https://quarkus.io/) - A Kubernetes Native Java stack tailored for OpenJDK HotSpot and GraalVM, crafted from the best of breed Java libraries and standards.
 * [Ratpack](https://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
@@ -201,8 +201,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Node.js
 
-* [Serverless](https://github.com/serverless/serverless) ⭐ 46,931 | 🐛 1,230 | 🌐 JavaScript | 📅 2026-04-02 - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
-* [tRPC](https://github.com/trpc/trpc) ⭐ 39,881 | 🐛 189 | 🌐 TypeScript | 📅 2026-04-02 - End-to-end typesafe APIs.
+* [Serverless](https://github.com/serverless/serverless) ⭐ 46,931 | 🐛 1,227 | 🌐 JavaScript | 📅 2026-04-03 - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
+* [tRPC](https://github.com/trpc/trpc) ⭐ 39,886 | 🐛 189 | 🌐 TypeScript | 📅 2026-04-03 - End-to-end typesafe APIs.
 * [Seneca](https://github.com/senecajs/seneca) ⭐ 3,955 | 🐛 213 | 🌐 JavaScript | 📅 2026-03-07 - A microservices toolkit for Node.js
 * [Actionhero](http://www.actionherojs.com/) - Multi-transport Node.js API server with integrated cluster capabilities and delayed tasks.
 * [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
@@ -231,11 +231,11 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Python
 
-* [Sanic](https://github.com/sanic-org/sanic) ⭐ 18,644 | 🐛 125 | 🌐 Python | 📅 2026-01-07 - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
-* [Aiohttp](https://github.com/aio-libs/aiohttp) ⭐ 16,366 | 🐛 274 | 🌐 Python | 📅 2026-04-03 - HTTP client/server for asyncio.
+* [Sanic](https://github.com/sanic-org/sanic) ⭐ 18,642 | 🐛 125 | 🌐 Python | 📅 2026-01-07 - Sanic is a Flask-like Python 3.5+ web server that's written to go fast.
+* [Aiohttp](https://github.com/aio-libs/aiohttp) ⭐ 16,364 | 🐛 275 | 🌐 Python | 📅 2026-04-04 - HTTP client/server for asyncio.
 * [Web.py](https://github.com/webpy/webpy/) ⭐ 5,931 | 🐛 56 | 🌐 Python | 📅 2026-03-23 - Minimalist web framework for Python.
-* [Nameko](https://github.com/onefinestay/nameko) ⭐ 4,761 | 🐛 95 | 🌐 Python | 📅 2024-05-01 - Python framework for building microservices.
-* [Connexion](https://github.com/zalando/connexion) ⭐ 4,579 | 🐛 177 | 🌐 Python | 📅 2026-03-02 - Swagger/OpenAPI framework for Python on top of Flask with automatic endpoint validation and OAuth2 support.
+* [Nameko](https://github.com/onefinestay/nameko) ⭐ 4,760 | 🐛 95 | 🌐 Python | 📅 2024-05-01 - Python framework for building microservices.
+* [Connexion](https://github.com/zalando/connexion) ⭐ 4,580 | 🐛 177 | 🌐 Python | 📅 2026-03-02 - Swagger/OpenAPI framework for Python on top of Flask with automatic endpoint validation and OAuth2 support.
 * [Bottle](https://bottlepy.org) - Fast, simple and lightweight WSGI micro web-framework for Python.
 * [Falcon](https://falconframework.org/) - Bare-metal Python web API framework for building very fast app backends and microservices.
 * [FastAPI](https://fastapi.tiangolo.com/) - Modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
@@ -245,8 +245,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Ruby
 
-* [Grape](https://github.com/ruby-grape/grape) ⭐ 9,985 | 🐛 254 | 🌐 Ruby | 📅 2026-03-30 - An opinionated framework for creating REST-like APIs
-* [Praxis](https://github.com/rightscale/praxis) ⭐ 303 | 🐛 12 | 🌐 Ruby | 📅 2025-04-09 - Framework for both designing and implementing APIs.
+* [Grape](https://github.com/ruby-grape/grape) ⭐ 9,985 | 🐛 258 | 🌐 Ruby | 📅 2026-04-03 - An opinionated framework for creating REST-like APIs
+* [Praxis](https://github.com/rightscale/praxis) ⭐ 303 | 🐛 13 | 🌐 Ruby | 📅 2025-04-09 - Framework for both designing and implementing APIs.
 * [Scorched](https://github.com/wardrop/Scorched) ⭐ 275 | 🐛 0 | 🌐 Ruby | 📅 2025-02-21 - Light-weight web framework for Ruby.
 * [Hanami](https://github.com/hanami) - A modern web framework for Ruby.
 * [Sinatra](http://www.sinatrarb.com/) - Sinatra is a DSL for quickly creating web applications in Ruby with minimal effort.
@@ -254,7 +254,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Rust
 
 * [Tower](https://github.com/tower-rs/tower) ⭐ 4,144 | 🐛 87 | 🌐 Rust | 📅 2026-02-24 - Library of modular and reusable components for building robust networking clients and servers.
-* [Tarpc](https://github.com/google/tarpc) ⭐ 3,679 | 🐛 55 | 🌐 Rust | 📅 2026-03-25 - RPC framework for Rust with a focus on ease of use.
+* [Tarpc](https://github.com/google/tarpc) ⭐ 3,681 | 🐛 55 | 🌐 Rust | 📅 2026-03-25 - RPC framework for Rust with a focus on ease of use.
 * [Wtx](https://github.com/c410-f3r/wtx) ⭐ 346 | 🐛 12 | 🌐 Rust | 📅 2026-04-01 - HTTP/2 client/server framework.
 * [Are we web yet?](https://www.arewewebyet.org/) :star: - A summary of the current state of web programming in Rust.
 * [Actix](https://actix.rs/) - Powerful, pragmatic, and extremely fast web framework for Rust.
@@ -273,15 +273,15 @@ A curated list of Microservice Architecture related principles and technologies.
 
 > Note that [data and control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) components are not categorized at this moment.
 
-* [Kong](https://github.com/kong/kong) ⭐ 43,093 | 🐛 133 | 🌐 Lua | 📅 2026-03-27 - Open source management layer for APIs.
-* [Envoy](https://github.com/lyft/envoy) ⭐ 27,751 | 🐛 1,766 | 🌐 C++ | 📅 2026-04-02 - Open source edge and service proxy, from the developers at Lyft.
-* [Pingora](https://github.com/cloudflare/pingora) ⭐ 26,335 | 🐛 241 | 🌐 Rust | 📅 2026-03-20 - A library for building fast, reliable and evolvable network services.
-* [Zuul](https://github.com/Netflix/zuul) ⭐ 14,003 | 🐛 7 | 🌐 Java | 📅 2026-04-02 - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
-* [Bunker Web](https://github.com/bunkerity/bunkerweb) ⭐ 10,236 | 🐛 187 | 🌐 Python | 📅 2026-04-02 - Web app hosting and reverse proxy secure by default.
-* [HAProxy](https://github.com/haproxy/haproxy) ⭐ 6,432 | 🐛 357 | 🌐 C | 📅 2026-04-02 - Reliable, high Performance TCP/HTTP load balancer.
-* [Skipper](https://github.com/zalando/skipper) ⭐ 3,263 | 🐛 311 | 🌐 Go | 📅 2026-04-01 - HTTP router useful for decoupling routing from service logic.
-* [Vulcand](https://github.com/vulcand/vulcand) ⭐ 3,098 | 🐛 70 | 🌐 Go | 📅 2024-07-27 - Programmatic load balancer backed by Etcd.
-* [Traffic Server](https://github.com/apache/trafficserver) ⭐ 1,940 | 🐛 420 | 🌐 C++ | 📅 2026-04-02 - High-performance building block for cloud services.
+* [Kong](https://github.com/kong/kong) ⭐ 43,102 | 🐛 134 | 🌐 Lua | 📅 2026-03-27 - Open source management layer for APIs.
+* [Envoy](https://github.com/lyft/envoy) ⭐ 27,752 | 🐛 1,759 | 🌐 C++ | 📅 2026-04-03 - Open source edge and service proxy, from the developers at Lyft.
+* [Pingora](https://github.com/cloudflare/pingora) ⭐ 26,342 | 🐛 240 | 🌐 Rust | 📅 2026-04-03 - A library for building fast, reliable and evolvable network services.
+* [Zuul](https://github.com/Netflix/zuul) ⭐ 14,001 | 🐛 7 | 🌐 Java | 📅 2026-04-02 - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
+* [Bunker Web](https://github.com/bunkerity/bunkerweb) ⭐ 10,241 | 🐛 187 | 🌐 Python | 📅 2026-04-02 - Web app hosting and reverse proxy secure by default.
+* [HAProxy](https://github.com/haproxy/haproxy) ⭐ 6,434 | 🐛 360 | 🌐 C | 📅 2026-04-04 - Reliable, high Performance TCP/HTTP load balancer.
+* [Skipper](https://github.com/zalando/skipper) ⭐ 3,263 | 🐛 312 | 🌐 Go | 📅 2026-04-01 - HTTP router useful for decoupling routing from service logic.
+* [Vulcand](https://github.com/vulcand/vulcand) ⭐ 3,097 | 🐛 70 | 🌐 Go | 📅 2024-07-27 - Programmatic load balancer backed by Etcd.
+* [Traffic Server](https://github.com/apache/trafficserver) ⭐ 1,939 | 🐛 412 | 🌐 C++ | 📅 2026-04-03 - High-performance building block for cloud services.
 * [APIcast](https://github.com/3scale/APIcast) ⭐ 323 | 🐛 58 | 🌐 Lua | 📅 2026-04-02 - APIcast is an API gateway built on top of NGINX. It is part of the Red Hat 3scale API Management Platform.
 * [Neutrino](https://github.com/eBay/Neutrino) ⭐ 315 | 🐛 9 | 🌐 Scala | 📅 2018-02-09 - Extensible software load balancer.
 * [Ambassador (c)](https://www.getambassador.io) - Kubernetes-native API gateway for microservices built on Envoy.
@@ -302,8 +302,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Configuration & Discovery
 
-* [Etcd](https://github.com/coreos/etcd) ⭐ 51,675 | 🐛 219 | 🌐 Go | 📅 2026-04-02 - Highly-available key-value store for shared configuration and service discovery.
-* [Nacos](https://github.com/alibaba/nacos) ⭐ 32,788 | 🐛 239 | 🌐 Java | 📅 2026-04-03 - Easy-to-use dynamic service discovery, configuration and service management platform.
+* [Etcd](https://github.com/coreos/etcd) ⭐ 51,674 | 🐛 216 | 🌐 Go | 📅 2026-04-04 - Highly-available key-value store for shared configuration and service discovery.
+* [Nacos](https://github.com/alibaba/nacos) ⭐ 32,791 | 🐛 238 | 🌐 Java | 📅 2026-04-03 - Easy-to-use dynamic service discovery, configuration and service management platform.
 * [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) ⭐ 12,700 | 🐛 136 | 🌐 Java | 📅 2026-03-23 - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 * [SkyDNS](https://github.com/skynetservices/skydns) ⭐ 2,205 | 🐛 61 | 🌐 Go | 📅 2021-03-21 - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
 * [Central Dogma](https://line.github.io/centraldogma/) - Open-source highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2.
@@ -314,18 +314,18 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Workflow Orchestration
 
-* [Kestra](https://github.com/kestra-io/kestra) ⭐ 26,649 | 🐛 507 | 🌐 Java | 📅 2026-04-02 - Open source microservices event-driven, language-agnostic orchestration and scheduling platform.
-* [Temporal](https://github.com/temporalio/temporal) ⭐ 19,363 | 🐛 695 | 🌐 Go | 📅 2026-04-03 - Open source microservices orchestration platform for running mission critical code at any scale.
+* [Kestra](https://github.com/kestra-io/kestra) ⭐ 26,650 | 🐛 503 | 🌐 Java | 📅 2026-04-03 - Open source microservices event-driven, language-agnostic orchestration and scheduling platform.
+* [Temporal](https://github.com/temporalio/temporal) ⭐ 19,390 | 🐛 699 | 🌐 Go | 📅 2026-04-04 - Open source microservices orchestration platform for running mission critical code at any scale.
 * [Conductor](https://github.com/Netflix/conductor) ⚠️ Archived - A microservices orchestration engine.
-* [Inngest](https://github.com/inngest/inngest) ⭐ 5,137 | 🐛 143 | 🌐 Go | 📅 2026-04-03 - Durable functions for reliable background logic, from background jobs to complex workflows.
+* [Inngest](https://github.com/inngest/inngest) ⭐ 5,141 | 🐛 149 | 🌐 Go | 📅 2026-04-04 - Durable functions for reliable background logic, from background jobs to complex workflows.
 * [AWS Step Functions (c)](https://aws.amazon.com/step-functions/) - Coordinate the components of distributed applications and microservices using visual workflows.
 * [Cadence](https://cadenceworkflow.io/) - Fault-oblivious stateful code platform.
 * [Zeebe](https://camunda.com/platform/zeebe/) - Define, orchestrate, and monitor business processes across microservices.
 
 ### Elasticity
 
-* [Valkey](https://github.com/valkey-io/valkey) ⭐ 25,347 | 🐛 626 | 🌐 C | 📅 2026-04-02 - A new project to resume development on the formerly open-source Redis project.
-* [Redisson](https://github.com/mrniko/redisson) ⭐ 24,289 | 🐛 273 | 🌐 Java | 📅 2026-04-02 - Distributed and scalable Java data structures on top of Redis server.
+* [Valkey](https://github.com/valkey-io/valkey) ⭐ 25,350 | 🐛 626 | 🌐 C | 📅 2026-04-03 - A new project to resume development on the formerly open-source Redis project.
+* [Redisson](https://github.com/mrniko/redisson) ⭐ 24,289 | 🐛 272 | 🌐 Java | 📅 2026-04-02 - Distributed and scalable Java data structures on top of Redis server.
 * [Hazelcast](http://hazelcast.org/) - Open source in-memory data-grid. Allows you to distribute data and computation across servers, clusters and geographies, and to manage very large data sets or high data ingest rates. Mature technology.
 * [Helix](http://helix.apache.org/) - Generic cluster management framework used for the automatic management of partitioned, replicated and distributed resources hosted on a cluster of nodes.
 * [Ignite](http://ignite.apache.org/) - High-performance, integrated and distributed in-memory platform for computing and transacting on large-scale data sets in real-time, orders of magnitude faster than possible with traditional disk-based or flash technologies.
@@ -337,8 +337,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Job Schedulers / Workload Automation
 
-* [Celery](https://github.com/celery/celery) ⭐ 28,294 | 🐛 760 | 🌐 Python | 📅 2026-04-02 - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
-* [Faktory](https://github.com/contribsys/faktory) ⭐ 6,106 | 🐛 21 | 🌐 Go | 📅 2026-04-02 - Language-agnostic persistent background job server.
+* [Celery](https://github.com/celery/celery) ⭐ 28,298 | 🐛 761 | 🌐 Python | 📅 2026-04-02 - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
+* [Faktory](https://github.com/contribsys/faktory) ⭐ 6,107 | 🐛 21 | 🌐 Go | 📅 2026-04-02 - Language-agnostic persistent background job server.
 * [Schedulix](https://github.com/schedulix/schedulix) ⭐ 130 | 🐛 1 | 🌐 Java | 📅 2026-03-05 - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
 * [Dkron](http://dkron.io/) - Distributed, fault tolerant job scheduling system.
 * [Rundeck (c)](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
@@ -350,14 +350,14 @@ A curated list of Microservice Architecture related principles and technologies.
 * [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
 * [LogDNA (c)](https://logdna.com/) - Centralized log management software. Instantly collect, centralize, and analyze logs in real-time from any platform, at any volume.
 * [Logstash](https://www.elastic.co/logstash) - Tool for managing events and logs.
-* [Loki](https://github.com/grafana/loki) ⭐ 27,908 | 🐛 2,017 | 🌐 Go | 📅 2026-04-03 - Like Prometheus, but for logs.
+* [Loki](https://github.com/grafana/loki) ⭐ 27,910 | 🐛 2,003 | 🌐 Go | 📅 2026-04-04 - Like Prometheus, but for logs.
 
 ### Messaging
 
-* [RocketMQ](https://github.com/apache/incubator-rocketmq) ⭐ 22,393 | 🐛 286 | 🌐 Java | 📅 2026-04-03 - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
+* [RocketMQ](https://github.com/apache/incubator-rocketmq) ⭐ 22,395 | 🐛 286 | 🌐 Java | 📅 2026-04-03 - A low latency, reliable, scalable, easy to use message oriented middleware born from alibaba massive messaging business.
 * [Bull](https://github.com/OptimalBits/bull) ⭐ 16,247 | 🐛 148 | 🌐 JavaScript | 📅 2026-03-28 - Fast and reliable Redis-based queue for Node.
-* [Redpanda](https://github.com/redpanda-data/redpanda/) ⭐ 11,930 | 🐛 671 | 🌐 C++ | 📅 2026-04-03 - Streaming data platform for developers: Kafka API compatible, 10x faster, no ZooKeeper and no JVM.
-* [Aeron](https://github.com/real-logic/Aeron) ⭐ 8,548 | 🐛 17 | 🌐 Java | 📅 2026-04-02 - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
+* [Redpanda](https://github.com/redpanda-data/redpanda/) ⭐ 11,934 | 🐛 668 | 🌐 C++ | 📅 2026-04-03 - Streaming data platform for developers: Kafka API compatible, 10x faster, no ZooKeeper and no JVM.
+* [Aeron](https://github.com/real-logic/Aeron) ⭐ 8,551 | 🐛 19 | 🌐 Java | 📅 2026-04-03 - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 * [Crossbar](https://github.com/crossbario/crossbar) ⭐ 2,062 | 🐛 301 | 🌐 Python | 📅 2026-04-02 - Open source networking platform for distributed and microservice applications. It implements the open Web Application Messaging Protocol (WAMP).
 * [Malamute](https://github.com/zeromq/malamute) ⭐ 335 | 🐛 28 | 🌐 C | 📅 2025-06-25 - ZeroMQ enterprise messaging broker.
 * [ØMQ](http://zeromq.org/) - Brokerless intelligent transport layer.
@@ -390,21 +390,21 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Reactivity
 
 * [Reactor.io](https://github.com/reactor) - A second-generation Reactive library for building non-blocking applications on the JVM based on the Reactive Streams Specification.
-* [Reactive Kafka](https://github.com/akka/alpakka-kafka) ⭐ 1,424 | 🐛 110 | 🌐 Scala | 📅 2026-03-26 - Reactive Streams API for Apache Kafka.
+* [Reactive Kafka](https://github.com/akka/alpakka-kafka) ⭐ 1,423 | 🐛 110 | 🌐 Scala | 📅 2026-03-26 - Reactive Streams API for Apache Kafka.
 * [ReactiveX](http://reactivex.io/) - API for asynchronous programming with observable streams. Available for idiomatic Java, Scala, C#, C++, Clojure, JavaScript, Python, Groovy, JRuby, and others.
 * [RSocket](https://rsocket.io/) - Application protocol providing Reactive Streams semantics.
 
 ### Resilience
 
-* [Resilience4j](https://github.com/resilience4j/resilience4j) ⭐ 10,613 | 🐛 289 | 🌐 Java | 📅 2026-03-29 - Fault tolerance library designed for Java8 and functional programming.
-* [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) ⭐ 6,531 | 🐛 60 | 📅 2023-12-28 :star: - A curated list of awesome chaos engineering resources.
+* [Resilience4j](https://github.com/resilience4j/resilience4j) ⭐ 10,616 | 🐛 289 | 🌐 Java | 📅 2026-03-29 - Fault tolerance library designed for Java8 and functional programming.
+* [Awesome Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering) ⭐ 6,533 | 🐛 60 | 📅 2023-12-28 :star: - A curated list of awesome chaos engineering resources.
 * [Raft Consensus](https://raft.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
 * [Svix](https://svix.com) - Webhooks service that sends webhooks to your users with full retry schedules, exponential backoff, signature verification, and event types.
 
 ### Security
 
-* [Keycloak](https://github.com/keycloak/keycloak) ⭐ 33,694 | 🐛 2,607 | 🌐 Java | 📅 2026-04-03 - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
-* [Dex](https://github.com/coreos/dex) ⭐ 10,697 | 🐛 489 | 🌐 Go | 📅 2026-04-03 - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
+* [Keycloak](https://github.com/keycloak/keycloak) ⭐ 33,704 | 🐛 2,611 | 🌐 Java | 📅 2026-04-04 - Full-featured and extensible auth service. OpenID Connect provider and third-party OAuth 2.0 delegation.
+* [Dex](https://github.com/coreos/dex) ⭐ 10,701 | 🐛 483 | 🌐 Go | 📅 2026-04-03 - Opinionated auth/directory service with pluggable connectors. OpenID Connect provider and third-party OAuth 2.0 delegation.
 * [Cerbos Hub](https://www.cerbos.dev/product-cerbos-hub) - Authorization management system for authoring, testing, and deploying access policies. Built scalable, fine-grained authorization in a microservice architecture.
 * [JWT](http://jwt.io/) - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 * [Light OAuth2](https://github.com/networknt/light-oauth2) - A fast, lightweight and cloud native OAuth 2.0 authorization microservices based on light-java.
@@ -418,12 +418,12 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Serialization
 
 * [Fastjson](https://github.com/alibaba/fastjson) ⚠️ Archived - Fast JSON Processor.
-* [Jackson](https://github.com/FasterXML/jackson) ⭐ 9,697 | 🐛 0 | 📅 2026-03-11 -  A multi-purpose Java library for processing JSON data format.
-* [Kryo](https://github.com/EsotericSoftware/kryo) ⭐ 6,503 | 🐛 39 | 🌐 HTML | 📅 2026-03-16 - Java serialization and cloning: fast, efficient, automatic.
+* [Jackson](https://github.com/FasterXML/jackson) ⭐ 9,699 | 🐛 0 | 📅 2026-03-11 -  A multi-purpose Java library for processing JSON data format.
+* [Kryo](https://github.com/EsotericSoftware/kryo) ⭐ 6,505 | 🐛 39 | 🌐 HTML | 📅 2026-03-16 - Java serialization and cloning: fast, efficient, automatic.
 * [Ffjson](https://github.com/pquerna/ffjson) ⭐ 2,993 | 🐛 59 | 🌐 Go | 📅 2023-09-21 - Faster JSON serialization for Go.
 * [Bond](https://github.com/microsoft/bond/) ⚠️ Archived - Cross-platform framework for working with schematized data, broadly used at Microsoft in high scale services.
-* [Protostuff](https://github.com/protostuff/protostuff) ⭐ 2,094 | 🐛 102 | 🌐 Java | 📅 2025-04-02 - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
-* [FST](https://github.com/RuedigerMoeller/fast-serialization) ⭐ 1,593 | 🐛 126 | 🌐 Java | 📅 2023-06-30 - Fast java serialization drop in-replacement.
+* [Protostuff](https://github.com/protostuff/protostuff) ⭐ 2,096 | 🐛 102 | 🌐 Java | 📅 2025-04-02 - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
+* [FST](https://github.com/RuedigerMoeller/fast-serialization) ⭐ 1,594 | 🐛 126 | 🌐 Java | 📅 2023-06-30 - Fast java serialization drop in-replacement.
 * [Cheshire](https://github.com/dakrone/cheshire) ⭐ 1,547 | 🐛 52 | 🌐 Clojure | 📅 2026-03-19 - Clojure JSON and JSON SMILE encoding/decoding.
 * [BooPickle](https://github.com/ochrons/boopickle) ⭐ 369 | 🐛 29 | 🌐 Scala | 📅 2025-08-11 - Binary serialization library for efficient network communication. For Scala and Scala.js
 * [Jackson Afterburner](https://github.com/FasterXML/jackson-module-afterburner) ⚠️ Archived - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
@@ -438,9 +438,9 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Storage
 
-* [InfluxDB](https://github.com/influxdata/influxdb) ⭐ 31,372 | 🐛 2,131 | 🌐 Rust | 📅 2026-04-02 - Scalable datastore for metrics, events, and real-time analytics.
-* [Citus](https://github.com/citusdata/citus) ⭐ 12,418 | 🐛 1,057 | 🌐 C | 📅 2026-04-01 - Distributed PostgreSQL as an extension.
-* [Alluxio](https://github.com/Alluxio/alluxio) ⭐ 7,178 | 🐛 1,039 | 🌐 Java | 📅 2025-04-29 - Virtual distributed storage system.
+* [InfluxDB](https://github.com/influxdata/influxdb) ⭐ 31,370 | 🐛 2,133 | 🌐 Rust | 📅 2026-04-02 - Scalable datastore for metrics, events, and real-time analytics.
+* [Citus](https://github.com/citusdata/citus) ⭐ 12,418 | 🐛 1,058 | 🌐 C | 📅 2026-04-01 - Distributed PostgreSQL as an extension.
+* [Alluxio](https://github.com/Alluxio/alluxio) ⭐ 7,179 | 🐛 1,039 | 🌐 Java | 📅 2025-04-29 - Virtual distributed storage system.
 * [Pilosa](https://github.com/pilosa/pilosa) ⚠️ Archived - Open source, distributed bitmap index that dramatically accelerates queries across multiple, massive data sets.
 * [AtlasDB](https://github.com/palantir/atlasdb) ⚠️ Archived - Transactional layer on top of a key value store.
 * [Secure Scuttlebutt](https://github.com/ssbc/docs) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2021-12-13 - P2P database of message-feeds.
@@ -462,9 +462,9 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Testing
 
-* [Goreplay](https://github.com/buger/goreplay) ⭐ 19,274 | 🐛 340 | 🌐 Go | 📅 2026-01-27 - A tool for capturing and replaying live HTTP traffic into a test environment.
+* [Goreplay](https://github.com/buger/goreplay) ⭐ 19,275 | 🐛 340 | 🌐 Go | 📅 2026-01-27 - A tool for capturing and replaying live HTTP traffic into a test environment.
 * [VCR](https://github.com/vcr/vcr) ⭐ 6,043 | 🐛 88 | 🌐 Ruby | 📅 2026-03-19 - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. See the list of ports for implementations in other languages.
-* [Hoverfly](https://github.com/spectolabs/hoverfly) ⭐ 2,477 | 🐛 35 | 🌐 Go | 📅 2026-03-29 - Lightweight service virtualization/API simulation tool for developers and testers.
+* [Hoverfly](https://github.com/spectolabs/hoverfly) ⭐ 2,479 | 🐛 35 | 🌐 Go | 📅 2026-03-29 - Lightweight service virtualization/API simulation tool for developers and testers.
 * [RestQA](https://github.com/restqa/restqa) ⭐ 93 | 🐛 18 | 🌐 JavaScript | 📅 2024-09-13 - A tool to manage microservices mocking, unit and performance testing locally with best in class developer experience.
 * [Wilma](https://github.com/epam/Wilma) ⭐ 59 | 🐛 9 | 🌐 Java | 📅 2024-08-31 - Combined HTTP/HTTPS service stub and transparent proxy solution.
 * [Mitmproxy](https://mitmproxy.org/) - An interactive console program that allows traffic flows to be intercepted, inspected, modified and replayed.
@@ -475,13 +475,13 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Continuous Integration & Delivery
 
-* [Awesome CI/CD DevOps](https://github.com/ciandcd/awesome-ciandcd) ⭐ 1,989 | 🐛 19 | 📅 2024-04-01 :star: - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
+* [Awesome CI/CD DevOps](https://github.com/ciandcd/awesome-ciandcd) ⭐ 1,989 | 🐛 20 | 📅 2024-04-01 :star: - A curated list of awesome tools for continuous integration, continuous delivery and DevOps.
 
 ## Web API Modeling & Documentation
 
 ### Async
 
-* [AsyncAPI](https://github.com/asyncapi/spec) ⭐ 5,137 | 🐛 34 | 🌐 JavaScript | 📅 2026-03-26 - AsyncAPI specification, the industry standard for defining asynchronous APIs.
+* [AsyncAPI](https://github.com/asyncapi/spec) ⭐ 5,140 | 🐛 34 | 🌐 JavaScript | 📅 2026-03-26 - AsyncAPI specification, the industry standard for defining asynchronous APIs.
 
 ### GraphQL
 
@@ -494,8 +494,8 @@ A curated list of Microservice Architecture related principles and technologies.
 ### REST
 
 * [Slate](https://github.com/slatedocs/slate) ⚠️ Archived - Beautiful static documentation for your API.
-* [ReDoc](https://github.com/Redocly/redoc) ⭐ 25,602 | 🐛 436 | 🌐 TypeScript | 📅 2026-02-07 - OpenAPI/Swagger-generated API Documentation.
-* [Scalar](https://github.com/scalar/scalar) ⭐ 14,505 | 🐛 114 | 🌐 TypeScript | 📅 2026-04-03 - Open-source API platform: beautiful API references and 1st-class OpenAPI/Swagger support.
+* [ReDoc](https://github.com/Redocly/redoc) ⭐ 25,606 | 🐛 436 | 🌐 TypeScript | 📅 2026-02-07 - OpenAPI/Swagger-generated API Documentation.
+* [Scalar](https://github.com/scalar/scalar) ⭐ 14,514 | 🐛 117 | 🌐 TypeScript | 📅 2026-04-04 - Open-source API platform: beautiful API references and 1st-class OpenAPI/Swagger support.
 * [API Blueprint](https://apiblueprint.org/) - Tools for your whole API lifecycle. Use it to discuss your API with others. Generate documentation automatically. Or a test suite. Or even some code.
 * [OpenAPI](https://www.openapis.org/) - The OpenAPI Specification (OAS) provides a consistent means to carry information through each stage of the API lifecycle.
 * [RAML](http://raml.org/) - RESTful API Modeling Language, a simple and succinct way of describing practically-RESTful APIs.
@@ -571,7 +571,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Data Formats
 
-* [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) ⭐ 7,434 | 🐛 94 | 📅 2024-08-10 - MessagePack Specification.
+* [MSGPACK](https://github.com/msgpack/msgpack/blob/master/spec.md) ⭐ 7,436 | 🐛 94 | 📅 2024-08-10 - MessagePack Specification.
 * [SBE](https://github.com/FIXTradingCommunity/fix-simple-binary-encoding) ⭐ 307 | 🐛 30 | 🌐 HTML | 📅 2025-06-22 - Simple Binary Encoding (SBE).
 * [RFC4627](https://tools.ietf.org/html/rfc4627) - JavaScript Object Notation (JSON).
 * [RFC7049](https://tools.ietf.org/html/rfc7049) - Concise Binary Object Representation (CBOR).
@@ -606,7 +606,7 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Articles & Papers
 
 * [Autonomy, Hyperconnectivity, and Residual Causality](https://www.mdpi.com/2409-9287/6/4/81) - Philosophical introduction to the design of adaptive hyperliminal systems through complexity science theories.
-* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 70,121 | 🐛 20 | 📅 2026-01-04 :star: - An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
+* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 70,145 | 🐛 20 | 📅 2026-01-04 :star: - An updated and organized reading list for illustrating the patterns of scalable, reliable, and performant large-scale systems. Concepts are explained in the articles of prominent engineers and credible references. Case studies are taken from battle-tested systems that serve millions to billions of users.
 * [AKF Scale Cube](http://akfpartners.com/techblog/2008/05/08/splitting-applications-or-services-for-scale/) - Model depicting the dimensions to scale a service.
 * [CALM](http://db.cs.berkeley.edu/papers/cidr11-bloom.pdf) :small\_orange\_diamond:<sup>PDF</sup> - Consistency as logical monotonicity.
 * [Canary Release](http://martinfowler.com/bliki/CanaryRelease.html) - Technique to reduce the risk of introducing a new software version in production by slowly rolling out the change to a small subset of users before rolling it out to the entire infrastructure and making it available to everybody.
@@ -637,8 +637,8 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ## Contributing
 
-Please, read the [Contribution Guidelines](https://github.com/mfornos/awesome-microservices/blob/master/CONTRIBUTING.md) ⭐ 14,227 | 🐛 10 | 📅 2026-01-17 before submitting your suggestion.
+Please, read the [Contribution Guidelines](https://github.com/mfornos/awesome-microservices/blob/master/CONTRIBUTING.md) ⭐ 14,228 | 🐛 13 | 📅 2026-01-17 before submitting your suggestion.
 
-Feel free to [open an issue](https://github.com/mfornos/awesome-microservices/issues) ⭐ 14,227 | 🐛 10 | 📅 2026-01-17 or [create a pull request](https://github.com/mfornos/awesome-microservices/pulls) ⭐ 14,227 | 🐛 10 | 📅 2026-01-17 with your additions.
+Feel free to [open an issue](https://github.com/mfornos/awesome-microservices/issues) ⭐ 14,228 | 🐛 13 | 📅 2026-01-17 or [create a pull request](https://github.com/mfornos/awesome-microservices/pulls) ⭐ 14,228 | 🐛 13 | 📅 2026-01-17 with your additions.
 
 :star2: Thank you!
